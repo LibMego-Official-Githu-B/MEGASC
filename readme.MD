@@ -11,6 +11,6 @@ the nk and pp act as private keys, just like in normal encryption methods, and O
 but nk and pp can't be brute-forced if they long, even a little bit, a pp of "passo" will be infeasible
 to brute-forced, and just like any normal encryption method but MEGASC made easier for beginners
 
-[My Other Projects](https://github.com/LibMego-Official-Githu-B?tab=repositories/)
+[My Other Projects](https://github.com/LibMego-Official-Githu-B?tab=repositories)
 
 [My Page](https://github.com/LibMego-Official-Githu-B/)
